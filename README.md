@@ -3,6 +3,11 @@ A collection of samples I have done through my learning experience.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Learning Resources
+
+- [Your first WebGPU app - Conway's Game of Life](https://codelabs.developers.google.com/your-first-webgpu-app#0)
+- [WebGPU Samples](https://webgpu.github.io/webgpu-samples/)
+
 ## Getting Started
 
 First, run the development server:
